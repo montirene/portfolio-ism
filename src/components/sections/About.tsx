@@ -37,13 +37,13 @@ export default function About() {
         <div className="lg:col-span-2 space-y-8 text-lg leading-relaxed">
           
           <p className="max-w-3xl">
-            I am a third-year **Bachelor of Science in Computer Science** student with a growing passion for web development. Even though I’m still at the beginner stage, I’ve discovered that creating websites is something I genuinely enjoy. Learning how structure, design, and functionality work together has made web development one of the fields I’m most excited to pursue.
+            I am a third-year Bachelor of Science in Computer Science student with a growing passion for web development. Even though I’m still at the beginner stage, I’ve discovered that creating websites is something I genuinely enjoy. Learning how structure, design, and functionality work together has made web development one of the fields I’m most excited to pursue.
           </p>
 
           {/* ADVANCED BREAKOUT: Deep Red Background for Quote */}
           <div className="p-6 bg-red-800 text-amber-50 rounded-lg shadow-xl max-w-3xl">
             <p className="italic text-xl font-medium">
-                What started as basic layout experiments eventually grew into a deeper interest in building **user-friendly and visually appealing interfaces**. Web design, in particular, has become something I truly enjoy because it allows me to be creative while still applying **logical thinking**.
+                What started as basic layout experiments eventually grew into a deeper interest in building user-friendly and visually appealing interfaces. Web design, in particular, has become something I truly enjoy because it allows me to be creative while still applying logical thinking.
             </p>
           </div>
 
